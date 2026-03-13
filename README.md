@@ -33,6 +33,23 @@
 
 <br/>
 
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=passtal&layout=compact&theme=transparent&hide_border=true&title_color=00A651&text_color=333333" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=passtal&show_icons=true&theme=transparent&hide_border=true&title_color=00A651&text_color=333333&icon_color=00A651" alt="GitHub Stats" />
+</p>
+
+### 🌿 Contribution Graph
+<p align="center">
+  <img src="https://ghchart.rshah.org/00A651/passtal" alt="Contribution Graph" />
+</p>
+
+<br/>
+
 ## 🚀 Projects
 
 ### 1. [프로젝트 이름] (팀/개인 프로젝트)
