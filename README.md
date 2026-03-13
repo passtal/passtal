@@ -43,7 +43,6 @@
   <img src="https://img.shields.io/badge/Servlet-007396?style=for-the-badge&logo=java&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Lombok-bc2c30?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Jackson-4c4c4c?style=for-the-badge">
   <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=white">
 </div>
 
