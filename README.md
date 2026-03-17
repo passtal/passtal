@@ -2,7 +2,7 @@
 
 # 👋 안녕하세요! 하루하루 발전하는 풀스택 개발자 **최영우**입니다.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pretendard&weight=600&size=22&pause=1000&color=00A651&center=true&vCenter=true&random=false&width=500&lines=%ED%95%98%EB%A3%A8%ED%95%98%EB%A3%A8+%EB%B0%9C%EC%A0%84%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90;Clean+Code+%7C+User-Centric+Thinking;Backend+%2B+Frontend+%3D+Full+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=24&duration=3000&pause=1000&color=00A651&center=true&vCenter=true&random=false&width=520&lines=%ED%95%98%EB%A3%A8%ED%95%98%EB%A3%A8+%EB%B0%9C%EC%A0%84%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90;Clean+Code+%7C+User-Centric+Thinking;Backend+%2B+Frontend+%3D+Full+Stack)](https://git.io/typing-svg)
 
 </div>
 
