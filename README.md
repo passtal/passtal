@@ -194,7 +194,7 @@
   </tr>
   <tr>
     <td align="center"><b>GitHub</b></td>
-    <td><a href="https://github.com/passtal/Durudurub">📂 Repository</a></td>
+    <td><a href="https://github.com/hello0a/Durudurub">📂 Repository</a></td>
   </tr>
 </table>
 
