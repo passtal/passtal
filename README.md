@@ -17,7 +17,7 @@
 > 💿 OpenAI API 등 외부 API를 활용한 서비스 개발 경험이 있습니다.  
 > 💿 인문·사회학적 사고를 개발에 녹여 사용자 관점의 결과를 도출해 낼 수 있습니다.
 
-> <a href="[📑 Notion](https://youngwoo0827.notion.site/_-3261d2570590802288edcc966ccd6074)">📑 Notion</a>
+> 📒 [**Notion Portfolio**](https://youngwoo0827.notion.site/-3261d2570590802288edcc966ccd6074)
 
 <br>
 
