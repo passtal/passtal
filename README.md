@@ -239,8 +239,8 @@
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=passtal&show_icons=true&theme=transparent&hide_border=true&title_color=00A651&text_color=333333&icon_color=00A651" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=passtal&layout=compact&theme=transparent&hide_border=true&title_color=00A651&text_color=333333" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=passtal&show_icons=true&theme=transparent&hide_border=true&title_color=00A651&text_color=333333&icon_color=00A651&cache_seconds=86400" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=passtal&layout=compact&theme=transparent&hide_border=true&title_color=00A651&text_color=333333&cache_seconds=86400" height="160" alt="Top Languages" />
 </div>
 
 <br>
