@@ -222,6 +222,138 @@
 
 <br>
 
+### 📌 채터북 (Chatterbook / SweetBook) — 카카오톡 대화 포토북 제작 서비스
+
+<table>
+  <tr>
+    <td width="120" align="center"><b>기간</b></td>
+    <td>2026.03 ~ 2026.04 (1주)</td>
+  </tr>
+  <tr>
+    <td align="center"><b>인원</b></td>
+    <td>1명 (개인 프로젝트)</td>
+  </tr>
+  <tr>
+    <td align="center"><b>역할</b></td>
+    <td>기획 · 설계 · 풀스택 단독 개발</td>
+  </tr>
+  <tr>
+    <td align="center"><b>GitHub</b></td>
+    <td><a href="https://github.com/passtal/SweetBook">📂 Repository</a></td>
+  </tr>
+</table>
+
+> 카카오톡 대화를 업로드하면 **실물 포토북**으로 제작·배송해주는 감성 기념품 플랫폼
+
+**주요 구현 기능**
+- 📤 **카카오톡 .txt 업로드** — 드래그 앤 드롭 + 대화 자동 파싱
+- 💬 **실시간 프리뷰** — 채팅 버블 형태의 페이지별 썸네일 미리보기
+- 📕 **자동 포토북 생성** — Book Print API 연동
+- 💳 **주문 프로세스** — 견적 확인 → 배송 정보 입력 → 결제 → 배송 추적
+- 📋 **주문 내역 관리** — 생성한 책 관리 및 주문 내역 추적
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Spring_Boot_3.4-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/Java_23-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/WebFlux-6DB33F?style=flat-square&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white">
+</div>
+
+<br>
+
+### 📌 짭파고 (ZzapPago) — AI 음성 인식 번역 플랫폼
+
+<table>
+  <tr>
+    <td width="120" align="center"><b>기간</b></td>
+    <td>2026.04 (1주)</td>
+  </tr>
+  <tr>
+    <td align="center"><b>인원</b></td>
+    <td>2명 (팀 프로젝트)</td>
+  </tr>
+  <tr>
+    <td align="center"><b>역할</b></td>
+    <td>음성 인식(STT) · 위치 기반 자동 언어 감지 · 실시간 번역 · PDF/Word/PNG 내보내기 · 랭킹 시스템</td>
+  </tr>
+  <tr>
+    <td align="center"><b>GitHub</b></td>
+    <td><a href="https://github.com/passtal/ZzapPago">📂 Repository</a></td>
+  </tr>
+</table>
+
+> 음성 인식 · 실시간 번역 · 학습 카드 · 랭킹을 통합한 **올인원 AI 번역 플랫폼**
+
+**주요 구현 기능**
+- 🎤 **음성 인식 (STT)** — OpenAI Whisper-1 기반 다국어 음성 입력
+- ⚡ **실시간 번역** — WebSocket + 500ms 디바운스로 타이핑 중 즉시 결과 제공
+- 📍 **위치 기반 자동 언어** — GPS + 역지오코딩으로 국가 코드 추출 후 자동 언어 설정
+- 📄 **다양한 내보내기** — PDF (ReportLab), Word (python-docx), PNG (Pillow)
+- 🏆 **랭킹 시스템** — 닉네임 기반 사용자 활동 랭킹
+
+<div align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Python_3.13-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+</div>
+
+<br>
+
+### 📌 24이음 (24eum) — 인테리어 시공업자 자동 매칭 플랫폼
+
+<table>
+  <tr>
+    <td width="120" align="center"><b>기간</b></td>
+    <td>2026.04 ~ 2026.05 (4주)</td>
+  </tr>
+  <tr>
+    <td align="center"><b>인원</b></td>
+    <td>1명 (개인 프로젝트)</td>
+  </tr>
+  <tr>
+    <td align="center"><b>역할</b></td>
+    <td>매칭 알고리즘 설계 · AI 검색 설계 · 풀스택 단독 개발</td>
+  </tr>
+  <tr>
+    <td align="center"><b>GitHub</b></td>
+    <td><a href="https://github.com/passtal/24eum">📂 Repository</a></td>
+  </tr>
+</table>
+
+> 디자인 모델 선택과 예산·면적 조건으로 시공업자를 자동 매칭하는 **인테리어 매칭 플랫폼**
+
+**주요 구현 기능**
+- 🏠 **자동 매칭 알고리즘 설계** — 선호도(35) + 경력(30) + 별점(25) + 리뷰(10) 점수식 기반 Top 5 시공업자 매칭
+- 🤖 **AI 검색 설계** — OpenAI MCP 기반 인테리어 도메인 한정 검색 (시스템 프롬프트로 범위 제한)
+- 💬 **실시간 1:1 채팅** — WebSocket (STOMP + SockJS) 기반, 외부 메시지 큐 없이 경량 구현
+- 🔐 **Stateless 인증** — JWT (access/refresh) + Spring Security + 카카오 OAuth 로그인
+- ⭐ **리뷰/찜 시스템** — 별점 · 리뷰 · 찜 관리 및 관리자 대시보드
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Spring_Boot_3.5-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white">
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white">
+  <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white">
+</div>
+
+<br>
+
 ---
 
 ## 📚 Certifications
